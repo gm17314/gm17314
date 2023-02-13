@@ -1,4 +1,4 @@
-### Hi there 👋, Gaurav This Side
+### Hi there 👋, Gaurav this side💻
 #### I'm Front-end Developer & Python Programmer
 
 I'm passionate for creating frontend projects using Reactjs.
